@@ -1,1 +1,1 @@
-{{< ringem link="https://quaere.re/" img="/banners/quae-banner.gif" alt="quaerere" >}}
+{{< ringem link="https://quaere.re/" img="/88x31/quaerere.gif" alt="quaerere" >}}
