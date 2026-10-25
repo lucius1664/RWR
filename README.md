@@ -1,12 +1,14 @@
-# About
+# Rackley Web Ring
 
 Paint the world in Rackley
+
+## About
 
 Bunch of friends who want to make a web ring. 
 
 To be added, the majority of the core team, who are in the ring, have to vote you in.
 
-# Gohugo
+## Gohugo
 
 Copy `gohugo/ringem.html` into `layouts/shortcodes/`.
 
@@ -14,7 +16,7 @@ Copy `88x31` into `static/`.
 
 The content of `_index.md` should be added to whatever Markdown file you want the banners to be displayed.
 
-# License
+## License
 
 All text files and software in this repo are licensed under the Unlicense license, the art assets retain the copyright of the copyright holder.
 
